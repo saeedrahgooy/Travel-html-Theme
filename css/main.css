@@ -1,0 +1,29 @@
+.slider .btn{
+    margin-top: 20px;
+    border-radius: 30px;
+}
+.slider .light{
+    line-height: 40px;
+    text-align: justify;
+}
+.section-search input{
+    padding: 7px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border:#f4f4f4 3px solid !important;
+    border-radius: 30px !important;
+}
+.autocomplete-content{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+.section-icons .card-panel{
+    border-radius: 20px !important;
+}
+.section-popular .btn{
+    border-radius: 30px !important;
+}
+.section-follow .fa-4x{
+    margin: 5px 10px;
+}
